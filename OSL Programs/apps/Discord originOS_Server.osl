@@ -1,3 +1,5 @@
+//nothin
+//yeah_true
 network "clear" "https://discord.com/api/guilds/1147362734300725298/widget.json"
 mainloop:
 network "get" "https://discord.com/api/guilds/1147362734300725298/widget.json"
